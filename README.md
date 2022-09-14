@@ -1,6 +1,6 @@
 # 2D-Diver-Game
 An arcade style video game where the player has to aim for the highest score
-
+#
 This game is called Skydiver 2d which features a controllable falling skydiver who's 
 objective is to collect as many baloons as possible without colliding into a flying bird.
 There are a limited number of lives the player has and every time the diver collides with a 
